@@ -22,3 +22,7 @@ Foi criado como **atividade escolar**, com o objetivo de praticar a organizaçã
 ## 📝 Observações
 Este projeto foi desenvolvido apenas como atividade de estudo e prática.  
 Não há intenção de uso profissional, mas serve como base para aprendizado e como exemplo de portfólio em HTML puro.
+
+## LINK
+
+https://henryloureiro.github.io/Portfolio-Senac/index.html
